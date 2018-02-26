@@ -36,6 +36,8 @@ gem 'devise'
 
 gem 'ffaker'
 
+gem 'kaminari'
+
 gem 'carrierwave'
 
 group :development, :test do
